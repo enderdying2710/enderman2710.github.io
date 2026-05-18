@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://enderdying2710.github.io/enderman2710.github.io/archives/</loc>
-    <lastmod>2025-01-01T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://enderdying2710.github.io/enderman2710.github.io/</loc>
-    <lastmod>2025-01-01T00:00:00+08:00</lastmod>
+    <lastmod>2026-05-18T00:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -28,10 +25,13 @@
                 href="https://enderdying2710.github.io/enderman2710.github.io/"
                 />
   </url><url>
-    <loc>https://enderdying2710.github.io/enderman2710.github.io/post/hello-world/</loc>
+    <loc>https://enderdying2710.github.io/enderman2710.github.io/about/</loc>
+    <lastmod>2026-05-18T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://enderdying2710.github.io/enderman2710.github.io/archives/</loc>
     <lastmod>2025-01-01T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://enderdying2710.github.io/enderman2710.github.io/about/</loc>
+    <loc>https://enderdying2710.github.io/enderman2710.github.io/post/hello-world/</loc>
     <lastmod>2025-01-01T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://enderdying2710.github.io/enderman2710.github.io/friend/</loc>
