@@ -12,12 +12,36 @@
     
     <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
     
-    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 00:00:00 +0000</lastBuildDate>
     
     
     <atom:link href="https://enderdying2710.github.io/enderman2710.github.io/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
+    
+    
+
+    <item>
+      <title>校鱼项目升级日志-20260519</title>
+      <link>https://enderdying2710.github.io/enderman2710.github.io/post/%E6%A0%A1%E9%B1%BC%E9%A1%B9%E7%9B%AE%E5%8D%87%E7%BA%A7%E6%97%A5%E5%BF%97-20260519/%E6%A0%A1%E9%B1%BC%E9%A1%B9%E7%9B%AE%E5%8D%87%E7%BA%A7%E6%97%A5%E5%BF%97-20260519/</link>
+      <pubDate>Tue, 19 May 2026 00:00:00 &#43;0000</pubDate>
+      <author>xxx@example.com (enderman2710)</author>
+      <guid>https://enderdying2710.github.io/enderman2710.github.io/post/%E6%A0%A1%E9%B1%BC%E9%A1%B9%E7%9B%AE%E5%8D%87%E7%BA%A7%E6%97%A5%E5%BF%97-20260519/%E6%A0%A1%E9%B1%BC%E9%A1%B9%E7%9B%AE%E5%8D%87%E7%BA%A7%E6%97%A5%E5%BF%97-20260519/</guid>
+      <description>
+        <![CDATA[<h1>校鱼项目升级日志-20260519</h1><p>作者：enderman2710（xxx@example.com）</p>
+        
+          <h1 id="校鱼校园二手交易平台--后端安全与性能升级日志">
+<a class="header-anchor" href="#%e6%a0%a1%e9%b1%bc%e6%a0%a1%e5%9b%ad%e4%ba%8c%e6%89%8b%e4%ba%a4%e6%98%93%e5%b9%b3%e5%8f%b0--%e5%90%8e%e7%ab%af%e5%ae%89%e5%85%a8%e4%b8%8e%e6%80%a7%e8%83%bd%e5%8d%87%e7%ba%a7%e6%97%a5%e5%bf%97"></a>
+校鱼校园二手交易平台 — 后端安全与性能升级日志
+</h1><blockquote>
+<p>项目：校鱼 (XiaoYu) · uni-app + Spring Boot 2.7 + MongoDB<br>
+日期：2026-05-19<br>
+分支：<code>appmod/java-upgrade-20260519012250</code></p>
+        
+        <hr><p>本文2026-05-19首发于<a href='https://enderdying2710.github.io/enderman2710.github.io/'>enderman2710</a>，最后修改于2026-05-19</p>]]>
+      </description>
+      
+    </item>
     
     
 
