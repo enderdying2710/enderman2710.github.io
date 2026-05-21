@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>教程 on enderman2710</title>
+    <link>https://enderdying2710.github.io/enderman2710.github.io/tags/%E6%95%99%E7%A8%8B/</link>
+    <description>Recent content from enderman2710</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    
+    <managingEditor>xxx@example.com (enderman2710)</managingEditor>
+    <webMaster>xxx@example.com (enderman2710)</webMaster>
+    
+    <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
+    
+    <lastBuildDate>Thu, 21 May 2026 00:00:00 +0000</lastBuildDate>
+    
+    
+    <atom:link href="https://enderdying2710.github.io/enderman2710.github.io/tags/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
+    <item>
+      <title>Hugo 博客标签与配置文件修改指南</title>
+      <link>https://enderdying2710.github.io/enderman2710.github.io/post/hugo-tags-config-guide/</link>
+      <pubDate>Thu, 21 May 2026 00:00:00 &#43;0000</pubDate>
+      <author>xxx@example.com (enderman2710)</author>
+      <guid>https://enderdying2710.github.io/enderman2710.github.io/post/hugo-tags-config-guide/</guid>
+      <description>
+        <![CDATA[<h1>Hugo 博客标签与配置文件修改指南</h1><p>作者：enderman2710（xxx@example.com）</p>
+        
+          <h1 id="hugo-博客标签与配置文件修改指南">
+<a class="header-anchor" href="#hugo-%e5%8d%9a%e5%ae%a2%e6%a0%87%e7%ad%be%e4%b8%8e%e9%85%8d%e7%bd%ae%e6%96%87%e4%bb%b6%e4%bf%ae%e6%94%b9%e6%8c%87%e5%8d%97"></a>
+Hugo 博客标签与配置文件修改指南
+</h1><h2 id="一给文章添加标签和分类">
+<a class="header-anchor" href="#%e4%b8%80%e7%bb%99%e6%96%87%e7%ab%a0%e6%b7%bb%e5%8a%a0%e6%a0%87%e7%ad%be%e5%92%8c%e5%88%86%e7%b1%bb"></a>
+一、给文章添加标签和分类
+</h2><p>在 Hugo 中，标签 (<code>tags</code>) 和分类 (<code>categories</code>) 写在每篇文章的 <strong>front matter</strong>（文件头部的 <code>---</code> 区域）里。</p>
+<h3 id="基本语法">
+<a class="header-anchor" href="#%e5%9f%ba%e6%9c%ac%e8%af%ad%e6%b3%95"></a>
+基本语法
+</h3><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="line"><span class="cl"><span class="nn">---</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">title</span><span class="p">:</span><span class="w"> </span><span class="s1">&#39;你的文章标题&#39;</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">date</span><span class="p">:</span><span class="w"> </span><span class="s1">&#39;2026-05-21&#39;</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">tags</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s1">&#39;标签1&#39;</span><span class="p">,</span><span class="w"> </span><span class="s1">&#39;标签2&#39;</span><span class="p">,</span><span class="w"> </span><span class="s1">&#39;标签3&#39;</span><span class="p">]</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">categories</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s1">&#39;分类名&#39;</span><span class="p">]</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nn">---</span><span class="w">
+</span></span></span></code></pre></div><h3 id="标签-vs-分类">
+<a class="header-anchor" href="#%e6%a0%87%e7%ad%be-vs-%e5%88%86%e7%b1%bb"></a>
+标签 vs 分类
+</h3><table>
+  <thead>
+      <tr>
+          <th></th>
+          <th>分类 (categories)</th>
+          <th>标签 (tags)</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>性质</td>
+          <td>大类，一篇文章通常一个分类</td>
+          <td>细粒度关键词，可以有多个</td>
+      </tr>
+      <tr>
+          <td>举例</td>
+          <td>技术、生活、项目</td>
+          <td>Hugo、Python、前端、教程</td>
+      </tr>
+      <tr>
+          <td>页面</td>
+          <td><code>/categories/技术/</code></td>
+          <td><code>/tags/Hugo/</code></td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="实际例子">
+<a class="header-anchor" href="#%e5%ae%9e%e9%99%85%e4%be%8b%e5%ad%90"></a>
+实际例子
+</h3><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="line"><span class="cl"><span class="nn">---</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">title</span><span class="p">:</span><span class="w"> </span><span class="s1">&#39;我的技术文章&#39;</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">date</span><span class="p">:</span><span class="w"> </span><span class="s1">&#39;2026-05-21&#39;</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">tags</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s1">&#39;Python&#39;</span><span class="p">,</span><span class="w"> </span><span class="s1">&#39;Django&#39;</span><span class="p">,</span><span class="w"> </span><span class="s1">&#39;后端&#39;</span><span class="p">]</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">categories</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s1">&#39;技术&#39;</span><span class="p">]</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nn">---</span><span class="w">
+</span></span></span></code></pre></div><p>添加后 Hugo 会自动生成：</p>
+        
+        <hr><p>本文2026-05-21首发于<a href='https://enderdying2710.github.io/enderman2710.github.io/'>enderman2710</a>，最后修改于2026-05-21</p>]]>
+      </description>
+      
+        <category>技术</category>
+      
+    </item>
+    
+  </channel>
+</rss>

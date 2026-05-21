@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on enderman2710</title>
+    <link>https://enderdying2710.github.io/enderman2710.github.io/tags/markdown/</link>
+    <description>Recent content from enderman2710</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    
+    <managingEditor>xxx@example.com (enderman2710)</managingEditor>
+    <webMaster>xxx@example.com (enderman2710)</webMaster>
+    
+    <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
+    
+    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
+    
+    
+    <atom:link href="https://enderdying2710.github.io/enderman2710.github.io/tags/markdown/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
+    <item>
+      <title>我第一次写MaskDown</title>
+      <link>https://enderdying2710.github.io/enderman2710.github.io/post/%E6%88%91%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%86%99mask-down/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 &#43;0000</pubDate>
+      <author>xxx@example.com (enderman2710)</author>
+      <guid>https://enderdying2710.github.io/enderman2710.github.io/post/%E6%88%91%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%86%99mask-down/</guid>
+      <description>
+        <![CDATA[<h1>我第一次写MaskDown</h1><p>作者：enderman2710（xxx@example.com）</p>
+        
+          <h1 id="让我们自己写一篇maskdown">
+<a class="header-anchor" href="#%e8%ae%a9%e6%88%91%e4%bb%ac%e8%87%aa%e5%b7%b1%e5%86%99%e4%b8%80%e7%af%87maskdown"></a>
+让我们自己写一篇Maskdown
+</h1><p>这是一个支持 <strong>完全在浏览器本地</strong> 运行的Maskdown编辑器。</p>
+<h2 id="功能特性">
+<a class="header-anchor" href="#%e5%8a%9f%e8%83%bd%e7%89%b9%e6%80%a7"></a>
+功能特性
+</h2><ul>
+<li>📝 <strong>实时预览</strong> — 左侧编辑，右侧即时渲染</li>
+<li>🌙 <strong>深色模式</strong> — 一键切换主题</li>
+<li>💾 <strong>自动保存</strong> — 内容保存在浏览器本地</li>
+<li>🎨 <strong>代码高亮</strong> — 支持多种编程语言</li>
+<li>📊 <strong>Mermaid 图表</strong> — 流程图、时序图等</li>
+<li>🧮 <strong>数学公式</strong> — 支持 KaTeX 渲染</li>
+<li>📋 <strong>目录生成</strong> — 使用 [TOC] 插入目录</li>
+</ul>
+<h2 id="目录">
+<a class="header-anchor" href="#%e7%9b%ae%e5%bd%95"></a>
+目录
+</h2><p>[TOC]</p>
+        
+        <hr><p>本文2026-05-18首发于<a href='https://enderdying2710.github.io/enderman2710.github.io/'>enderman2710</a>，最后修改于2026-05-18</p>]]>
+      </description>
+      
+        <category>技术</category>
+      
+    </item>
+    
+  </channel>
+</rss>
