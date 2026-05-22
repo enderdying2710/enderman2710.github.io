@@ -161,33 +161,13 @@ Hugo 博客标签与配置文件修改指南
     
 
     <item>
-      <title>Hello World</title>
-      <link>https://enderdying2710.github.io/enderman2710.github.io/post/hello-world/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 &#43;0800</pubDate>
-      <author>xxx@example.com (enderman2710)</author>
-      <guid>https://enderdying2710.github.io/enderman2710.github.io/post/hello-world/</guid>
-      <description>
-        <![CDATA[<h1>Hello World</h1><p>作者：enderman2710（xxx@example.com）</p>
-        
-          <p>欢迎来到我的博客！这是使用 Hugo + hugo-theme-reimu 主题搭建的第一篇文章。🎉</p>
-        
-        <hr><p>本文2025-01-01首发于<a href='https://enderdying2710.github.io/enderman2710.github.io/'>enderman2710</a>，最后修改于2025-01-01</p>]]>
-      </description>
-      
-        <category>技术</category>
-      
-    </item>
-    
-    
-
-    <item>
-      <title></title>
+      <title>我的传奇面试概率</title>
       <link>https://enderdying2710.github.io/enderman2710.github.io/post/%E4%BC%A0%E5%A5%87%E9%9D%A2%E8%AF%95%E5%8F%AF%E8%83%BD%E6%80%A7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+      <pubDate>Fri, 22 May 2026 00:00:00 &#43;0000</pubDate>
       <author>xxx@example.com (enderman2710)</author>
       <guid>https://enderdying2710.github.io/enderman2710.github.io/post/%E4%BC%A0%E5%A5%87%E9%9D%A2%E8%AF%95%E5%8F%AF%E8%83%BD%E6%80%A7/</guid>
       <description>
-        <![CDATA[<h1></h1><p>作者：enderman2710（xxx@example.com）</p>
+        <![CDATA[<h1>我的传奇面试概率</h1><p>作者：enderman2710（xxx@example.com）</p>
         
           <h1 id="丘睿华---岗位推荐分析报告">
 <a class="header-anchor" href="#%e4%b8%98%e7%9d%bf%e5%8d%8e---%e5%b2%97%e4%bd%8d%e6%8e%a8%e8%8d%90%e5%88%86%e6%9e%90%e6%8a%a5%e5%91%8a"></a>
@@ -244,8 +224,30 @@ Hugo 博客标签与配置文件修改指南
 二、综合评估：你适合的方向
 </h2><p>根据你的技能体系、项目经验和学历背景，推荐优先级如下：</p>
         
-        <hr><p>本文0001-01-01首发于<a href='https://enderdying2710.github.io/enderman2710.github.io/'>enderman2710</a>，最后修改于0001-01-01</p>]]>
+        <hr><p>本文2026-05-22首发于<a href='https://enderdying2710.github.io/enderman2710.github.io/'>enderman2710</a>，最后修改于2025-05-22</p>]]>
       </description>
+      
+        <category>面试</category>
+      
+    </item>
+    
+    
+
+    <item>
+      <title>Hello World</title>
+      <link>https://enderdying2710.github.io/enderman2710.github.io/post/hello-world/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 &#43;0800</pubDate>
+      <author>xxx@example.com (enderman2710)</author>
+      <guid>https://enderdying2710.github.io/enderman2710.github.io/post/hello-world/</guid>
+      <description>
+        <![CDATA[<h1>Hello World</h1><p>作者：enderman2710（xxx@example.com）</p>
+        
+          <p>欢迎来到我的博客！这是使用 Hugo + hugo-theme-reimu 主题搭建的第一篇文章。🎉</p>
+        
+        <hr><p>本文2025-01-01首发于<a href='https://enderdying2710.github.io/enderman2710.github.io/'>enderman2710</a>，最后修改于2025-01-01</p>]]>
+      </description>
+      
+        <category>技术</category>
       
     </item>
     
