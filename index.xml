@@ -178,5 +178,76 @@ Hugo 博客标签与配置文件修改指南
       
     </item>
     
+    
+
+    <item>
+      <title></title>
+      <link>https://enderdying2710.github.io/enderman2710.github.io/post/%E4%BC%A0%E5%A5%87%E9%9D%A2%E8%AF%95%E5%8F%AF%E8%83%BD%E6%80%A7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+      <author>xxx@example.com (enderman2710)</author>
+      <guid>https://enderdying2710.github.io/enderman2710.github.io/post/%E4%BC%A0%E5%A5%87%E9%9D%A2%E8%AF%95%E5%8F%AF%E8%83%BD%E6%80%A7/</guid>
+      <description>
+        <![CDATA[<h1></h1><p>作者：enderman2710（xxx@example.com）</p>
+        
+          <h1 id="丘睿华---岗位推荐分析报告">
+<a class="header-anchor" href="#%e4%b8%98%e7%9d%bf%e5%8d%8e---%e5%b2%97%e4%bd%8d%e6%8e%a8%e8%8d%90%e5%88%86%e6%9e%90%e6%8a%a5%e5%91%8a"></a>
+丘睿华 - 岗位推荐分析报告
+</h1><blockquote>
+<p>生成日期：2026年5月22日
+数据来源：34家企业招聘情况统计 + 3份个人简历（Java开发/软件测试/软件开发）</p>
+</blockquote>
+<hr>
+<h2 id="一个人能力画像">
+<a class="header-anchor" href="#%e4%b8%80%e4%b8%aa%e4%ba%ba%e8%83%bd%e5%8a%9b%e7%94%bb%e5%83%8f"></a>
+一、个人能力画像
+</h2><table>
+  <thead>
+      <tr>
+          <th>维度</th>
+          <th>详情</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>学历</strong></td>
+          <td>广东邮电职业技术学院 · 软件技术专业 · 大专 · 2024.09-至今（预计2027年毕业）</td>
+      </tr>
+      <tr>
+          <td><strong>核心技能</strong></td>
+          <td>Java后端（Spring Boot + MongoDB）、全栈开发（uni-app + Vue3）、软件测试</td>
+      </tr>
+      <tr>
+          <td><strong>项目经验</strong></td>
+          <td>校鱼 · 校园二手交易平台（微信小程序），独立负责后端架构+API开发</td>
+      </tr>
+      <tr>
+          <td><strong>测试能力</strong></td>
+          <td>编写80+条测试用例，覆盖功能测试+接口测试，发现并跟踪多个关键缺陷</td>
+      </tr>
+      <tr>
+          <td><strong>软实力</strong></td>
+          <td>学习意愿强烈、团队协作好、全流程交付能力强</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="技能雷达">
+<a class="header-anchor" href="#%e6%8a%80%e8%83%bd%e9%9b%b7%e8%be%be"></a>
+技能雷达
+</h3><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">Java后端开发   ████████████████████░░  90%
+</span></span><span class="line"><span class="cl">软件测试       ██████████████████░░░░  80%
+</span></span><span class="line"><span class="cl">微信小程序前端 ████████████████░░░░░░  75%
+</span></span><span class="line"><span class="cl">数据库设计     ████████████████░░░░░░  75%
+</span></span><span class="line"><span class="cl">全栈交付       ███████████████░░░░░░░  70%
+</span></span></code></pre></div><hr>
+<h2 id="二综合评估你适合的方向">
+<a class="header-anchor" href="#%e4%ba%8c%e7%bb%bc%e5%90%88%e8%af%84%e4%bc%b0%e4%bd%a0%e9%80%82%e5%90%88%e7%9a%84%e6%96%b9%e5%90%91"></a>
+二、综合评估：你适合的方向
+</h2><p>根据你的技能体系、项目经验和学历背景，推荐优先级如下：</p>
+        
+        <hr><p>本文0001-01-01首发于<a href='https://enderdying2710.github.io/enderman2710.github.io/'>enderman2710</a>，最后修改于0001-01-01</p>]]>
+      </description>
+      
+    </item>
+    
   </channel>
 </rss>
