@@ -12,12 +12,38 @@
     
     <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
     
-    <lastBuildDate>Tue, 19 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
     
     
     <atom:link href="https://enderdying2710.github.io/enderman2710.github.io/tags/spring-boot/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
+    
+    
+
+    <item>
+      <title>开源项目学习 | Mars Blog 博客系统</title>
+      <link>https://enderdying2710.github.io/enderman2710.github.io/post/mars-blog%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 &#43;0000</pubDate>
+      <author>xxx@example.com (enderman2710)</author>
+      <guid>https://enderdying2710.github.io/enderman2710.github.io/post/mars-blog%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/</guid>
+      <description>
+        <![CDATA[<h1>开源项目学习 | Mars Blog 博客系统</h1><p>作者：enderman2710（xxx@example.com）</p>
+        
+          <h1 id="mars-blog-博客系统--学习笔记">
+<a class="header-anchor" href="#mars-blog-%e5%8d%9a%e5%ae%a2%e7%b3%bb%e7%bb%9f--%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0"></a>
+Mars Blog 博客系统 — 学习笔记
+</h1><blockquote>
+<p>项目地址：https://gitee.com/wuchunfu/mars-blog
+克隆日期：2026年5月25日
+技术栈：Spring Boot 4.0 + Vue 3 + MyBatis-Plus + MySQL + Redis + Sa-Token</p>
+        
+        <hr><p>本文2026-05-25首发于<a href='https://enderdying2710.github.io/enderman2710.github.io/'>enderman2710</a>，最后修改于2026-05-25</p>]]>
+      </description>
+      
+        <category>技术学习</category>
+      
+    </item>
     
     
 
