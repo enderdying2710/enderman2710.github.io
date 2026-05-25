@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>教程 on enderman2710</title>
-    <link>http://localhost:5307/enderman2710.github.io/tags/%E6%95%99%E7%A8%8B/</link>
+    <link>https://enderdying2710.github.io/enderman2710.github.io/tags/%E6%95%99%E7%A8%8B/</link>
     <description>Recent content from enderman2710</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
@@ -15,7 +15,7 @@
     <lastBuildDate>Thu, 21 May 2026 00:00:00 +0000</lastBuildDate>
     
     
-    <atom:link href="http://localhost:5307/enderman2710.github.io/tags/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="https://enderdying2710.github.io/enderman2710.github.io/tags/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     
@@ -23,10 +23,10 @@
 
     <item>
       <title>Hugo 博客标签与配置文件修改指南</title>
-      <link>http://localhost:5307/enderman2710.github.io/post/hugo-tags-config-guide/</link>
+      <link>https://enderdying2710.github.io/enderman2710.github.io/post/hugo-tags-config-guide/</link>
       <pubDate>Thu, 21 May 2026 00:00:00 &#43;0000</pubDate>
       <author>xxx@example.com (enderman2710)</author>
-      <guid>http://localhost:5307/enderman2710.github.io/post/hugo-tags-config-guide/</guid>
+      <guid>https://enderdying2710.github.io/enderman2710.github.io/post/hugo-tags-config-guide/</guid>
       <description>
         <![CDATA[<h1>Hugo 博客标签与配置文件修改指南</h1><p>作者：enderman2710（xxx@example.com）</p>
         
@@ -86,7 +86,7 @@ Hugo 博客标签与配置文件修改指南
 </span></span></span><span class="line"><span class="cl"><span class="nn">---</span><span class="w">
 </span></span></span></code></pre></div><p>添加后 Hugo 会自动生成：</p>
         
-        <hr><p>本文2026-05-21首发于<a href='http://localhost:5307/enderman2710.github.io/'>enderman2710</a>，最后修改于2026-05-21</p>]]>
+        <hr><p>本文2026-05-21首发于<a href='https://enderdying2710.github.io/enderman2710.github.io/'>enderman2710</a>，最后修改于2026-05-21</p>]]>
       </description>
       
         <category>技术</category>

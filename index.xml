@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>enderman2710</title>
-    <link>http://localhost:5307/enderman2710.github.io/</link>
+    <link>https://enderdying2710.github.io/enderman2710.github.io/</link>
     <description>Recent content from enderman2710</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
@@ -15,85 +15,97 @@
     <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
     
     
-    <atom:link href="http://localhost:5307/enderman2710.github.io/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="https://enderdying2710.github.io/enderman2710.github.io/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     
     
 
     <item>
-      <title>开源项目学习 | Spring AI Tutorial — Java AI 开发入门</title>
-      <link>http://localhost:5307/enderman2710.github.io/post/spring-ai-tutorial/</link>
+      <title>Spring AI Tutorial — Java AI 开发实战</title>
+      <link>https://enderdying2710.github.io/enderman2710.github.io/post/spring-ai-tutorial/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 &#43;0000</pubDate>
       <author>xxx@example.com (enderman2710)</author>
-      <guid>http://localhost:5307/enderman2710.github.io/post/spring-ai-tutorial/</guid>
+      <guid>https://enderdying2710.github.io/enderman2710.github.io/post/spring-ai-tutorial/</guid>
       <description>
-        <![CDATA[<h1>开源项目学习 | Spring AI Tutorial — Java AI 开发入门</h1><p>作者：enderman2710（xxx@example.com）</p>
+        <![CDATA[<h1>Spring AI Tutorial — Java AI 开发实战</h1><p>作者：enderman2710（xxx@example.com）</p>
         
-          <h1 id="spring-ai-tutorial--java-ai-开发入门学习笔记">
-<a class="header-anchor" href="#spring-ai-tutorial--java-ai-%e5%bc%80%e5%8f%91%e5%85%a5%e9%97%a8%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0"></a>
-Spring AI Tutorial — Java AI 开发入门学习笔记
+          <h1 id="spring-ai-tutorial--java-ai-开发实战">
+<a class="header-anchor" href="#spring-ai-tutorial--java-ai-%e5%bc%80%e5%8f%91%e5%ae%9e%e6%88%98"></a>
+Spring AI Tutorial — Java AI 开发实战
 </h1><blockquote>
-<p>项目地址：https://gitee.com/yjinit/spring-ai-tutorial
-克隆日期：2026年5月25日
-技术栈：JDK21 + Spring Boot 3.4.5 + Spring AI 1.0.0 + Spring AI Alibaba 1.0.0</p>
+<p>技术栈：JDK21 + Spring Boot 3.4.5 + Spring AI 1.0.0 + Spring AI Alibaba 1.0.0</p>
+</blockquote>
+<hr>
+<h2 id="一项目概述">
+<a class="header-anchor" href="#%e4%b8%80%e9%a1%b9%e7%9b%ae%e6%a6%82%e8%bf%b0"></a>
+一、项目概述
+</h2><p>Spring AI Tutorial 是一个系统的 Spring AI 实战项目，涵盖从基础对话到多智能体协作的完整开发路径。项目采用模块化结构，每个功能模块独立为一个 Maven 子工程，可逐个运行和调试。</p>
         
-        <hr><p>本文2026-05-25首发于<a href='http://localhost:5307/enderman2710.github.io/'>enderman2710</a>，最后修改于2026-05-25</p>]]>
+        <hr><p>本文2026-05-25首发于<a href='https://enderdying2710.github.io/enderman2710.github.io/'>enderman2710</a>，最后修改于2026-05-25</p>]]>
       </description>
       
-        <category>技术学习</category>
+        <category>项目实战</category>
       
     </item>
     
     
 
     <item>
-      <title>开源项目学习 | Mars Blog 博客系统</title>
-      <link>http://localhost:5307/enderman2710.github.io/post/mars-blog%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/</link>
+      <title>Mars Blog 博客系统 — 全栈博客开发实战</title>
+      <link>https://enderdying2710.github.io/enderman2710.github.io/post/mars-blog%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 &#43;0000</pubDate>
       <author>xxx@example.com (enderman2710)</author>
-      <guid>http://localhost:5307/enderman2710.github.io/post/mars-blog%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/</guid>
+      <guid>https://enderdying2710.github.io/enderman2710.github.io/post/mars-blog%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/</guid>
       <description>
-        <![CDATA[<h1>开源项目学习 | Mars Blog 博客系统</h1><p>作者：enderman2710（xxx@example.com）</p>
+        <![CDATA[<h1>Mars Blog 博客系统 — 全栈博客开发实战</h1><p>作者：enderman2710（xxx@example.com）</p>
         
-          <h1 id="mars-blog-博客系统--学习笔记">
-<a class="header-anchor" href="#mars-blog-%e5%8d%9a%e5%ae%a2%e7%b3%bb%e7%bb%9f--%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0"></a>
-Mars Blog 博客系统 — 学习笔记
+          <h1 id="mars-blog-博客系统--全栈开发实战">
+<a class="header-anchor" href="#mars-blog-%e5%8d%9a%e5%ae%a2%e7%b3%bb%e7%bb%9f--%e5%85%a8%e6%a0%88%e5%bc%80%e5%8f%91%e5%ae%9e%e6%88%98"></a>
+Mars Blog 博客系统 — 全栈开发实战
 </h1><blockquote>
-<p>项目地址：https://gitee.com/wuchunfu/mars-blog
-克隆日期：2026年5月25日
-技术栈：Spring Boot 4.0 + Vue 3 + MyBatis-Plus + MySQL + Redis + Sa-Token</p>
+<p>技术栈：Spring Boot 4.0 + Vue 3 + MyBatis-Plus + MySQL + Redis + Sa-Token</p>
+</blockquote>
+<hr>
+<h2 id="一项目概述">
+<a class="header-anchor" href="#%e4%b8%80%e9%a1%b9%e7%9b%ae%e6%a6%82%e8%bf%b0"></a>
+一、项目概述
+</h2><p>Mars Blog 是一个自研的现代化前后端分离博客系统，采用 Spring Boot 4.0 + Vue 3 技术栈。项目代码结构清晰、注释完善，实现了企业级后端开发的分层架构和常见中间件的整合。</p>
         
-        <hr><p>本文2026-05-25首发于<a href='http://localhost:5307/enderman2710.github.io/'>enderman2710</a>，最后修改于2026-05-25</p>]]>
+        <hr><p>本文2026-05-25首发于<a href='https://enderdying2710.github.io/enderman2710.github.io/'>enderman2710</a>，最后修改于2026-05-25</p>]]>
       </description>
       
-        <category>技术学习</category>
+        <category>项目实战</category>
       
     </item>
     
     
 
     <item>
-      <title>开源项目学习 | Lim 接口测试平台</title>
-      <link>http://localhost:5307/enderman2710.github.io/post/lim%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95%E5%B9%B3%E5%8F%B0/</link>
+      <title>Lim 接口测试平台 — 轻量级接口自动化测试</title>
+      <link>https://enderdying2710.github.io/enderman2710.github.io/post/lim%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95%E5%B9%B3%E5%8F%B0/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 &#43;0000</pubDate>
       <author>xxx@example.com (enderman2710)</author>
-      <guid>http://localhost:5307/enderman2710.github.io/post/lim%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95%E5%B9%B3%E5%8F%B0/</guid>
+      <guid>https://enderdying2710.github.io/enderman2710.github.io/post/lim%E6%8E%A5%E5%8F%A3%E6%B5%8B%E8%AF%95%E5%B9%B3%E5%8F%B0/</guid>
       <description>
-        <![CDATA[<h1>开源项目学习 | Lim 接口测试平台</h1><p>作者：enderman2710（xxx@example.com）</p>
+        <![CDATA[<h1>Lim 接口测试平台 — 轻量级接口自动化测试</h1><p>作者：enderman2710（xxx@example.com）</p>
         
-          <h1 id="lim-接口测试平台--学习笔记">
-<a class="header-anchor" href="#lim-%e6%8e%a5%e5%8f%a3%e6%b5%8b%e8%af%95%e5%b9%b3%e5%8f%b0--%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0"></a>
-Lim 接口测试平台 — 学习笔记
+          <h1 id="lim-接口测试平台--轻量级接口自动化测试">
+<a class="header-anchor" href="#lim-%e6%8e%a5%e5%8f%a3%e6%b5%8b%e8%af%95%e5%b9%b3%e5%8f%b0--%e8%bd%bb%e9%87%8f%e7%ba%a7%e6%8e%a5%e5%8f%a3%e8%87%aa%e5%8a%a8%e5%8c%96%e6%b5%8b%e8%af%95"></a>
+Lim 接口测试平台 — 轻量级接口自动化测试
 </h1><blockquote>
-<p>项目地址：https://gitee.com/qu-niao/LessIsMore
-克隆日期：2026年5月25日
-技术栈：React + Python Django + SQLite</p>
+<p>技术栈：React + Python Django + SQLite</p>
+</blockquote>
+<hr>
+<h2 id="一项目概述">
+<a class="header-anchor" href="#%e4%b8%80%e9%a1%b9%e7%9b%ae%e6%a6%82%e8%bf%b0"></a>
+一、项目概述
+</h2><p>Lim 是 &ldquo;Less is More&rdquo;（少即是多）的缩写，一个自研的轻量级接口测试平台。设计理念是让接口测试变得简单且高效——去掉了传统测试平台中很多复杂的概念（如局部变量、前后置计划等），通过创新的交互设计让用户操作更少但效率更高。</p>
         
-        <hr><p>本文2026-05-25首发于<a href='http://localhost:5307/enderman2710.github.io/'>enderman2710</a>，最后修改于2026-05-25</p>]]>
+        <hr><p>本文2026-05-25首发于<a href='https://enderdying2710.github.io/enderman2710.github.io/'>enderman2710</a>，最后修改于2026-05-25</p>]]>
       </description>
       
-        <category>技术学习</category>
+        <category>项目实战</category>
       
     </item>
     
@@ -101,10 +113,10 @@ Lim 接口测试平台 — 学习笔记
 
     <item>
       <title>我的传奇面试概率</title>
-      <link>http://localhost:5307/enderman2710.github.io/post/%E4%BC%A0%E5%A5%87%E9%9D%A2%E8%AF%95%E5%8F%AF%E8%83%BD%E6%80%A7/</link>
+      <link>https://enderdying2710.github.io/enderman2710.github.io/post/%E4%BC%A0%E5%A5%87%E9%9D%A2%E8%AF%95%E5%8F%AF%E8%83%BD%E6%80%A7/</link>
       <pubDate>Fri, 22 May 2026 00:00:00 &#43;0000</pubDate>
       <author>xxx@example.com (enderman2710)</author>
-      <guid>http://localhost:5307/enderman2710.github.io/post/%E4%BC%A0%E5%A5%87%E9%9D%A2%E8%AF%95%E5%8F%AF%E8%83%BD%E6%80%A7/</guid>
+      <guid>https://enderdying2710.github.io/enderman2710.github.io/post/%E4%BC%A0%E5%A5%87%E9%9D%A2%E8%AF%95%E5%8F%AF%E8%83%BD%E6%80%A7/</guid>
       <description>
         <![CDATA[<h1>我的传奇面试概率</h1><p>作者：enderman2710（xxx@example.com）</p>
         
@@ -163,7 +175,7 @@ Lim 接口测试平台 — 学习笔记
 二、综合评估：你适合的方向
 </h2><p>根据你的技能体系、项目经验和学历背景，推荐优先级如下：</p>
         
-        <hr><p>本文2026-05-22首发于<a href='http://localhost:5307/enderman2710.github.io/'>enderman2710</a>，最后修改于2026-05-22</p>]]>
+        <hr><p>本文2026-05-22首发于<a href='https://enderdying2710.github.io/enderman2710.github.io/'>enderman2710</a>，最后修改于2026-05-22</p>]]>
       </description>
       
         <category>面试</category>
@@ -174,10 +186,10 @@ Lim 接口测试平台 — 学习笔记
 
     <item>
       <title>Hugo 博客标签与配置文件修改指南</title>
-      <link>http://localhost:5307/enderman2710.github.io/post/hugo-tags-config-guide/</link>
+      <link>https://enderdying2710.github.io/enderman2710.github.io/post/hugo-tags-config-guide/</link>
       <pubDate>Thu, 21 May 2026 00:00:00 &#43;0000</pubDate>
       <author>xxx@example.com (enderman2710)</author>
-      <guid>http://localhost:5307/enderman2710.github.io/post/hugo-tags-config-guide/</guid>
+      <guid>https://enderdying2710.github.io/enderman2710.github.io/post/hugo-tags-config-guide/</guid>
       <description>
         <![CDATA[<h1>Hugo 博客标签与配置文件修改指南</h1><p>作者：enderman2710（xxx@example.com）</p>
         
@@ -237,7 +249,7 @@ Hugo 博客标签与配置文件修改指南
 </span></span></span><span class="line"><span class="cl"><span class="nn">---</span><span class="w">
 </span></span></span></code></pre></div><p>添加后 Hugo 会自动生成：</p>
         
-        <hr><p>本文2026-05-21首发于<a href='http://localhost:5307/enderman2710.github.io/'>enderman2710</a>，最后修改于2026-05-21</p>]]>
+        <hr><p>本文2026-05-21首发于<a href='https://enderdying2710.github.io/enderman2710.github.io/'>enderman2710</a>，最后修改于2026-05-21</p>]]>
       </description>
       
         <category>技术</category>
@@ -248,10 +260,10 @@ Hugo 博客标签与配置文件修改指南
 
     <item>
       <title>校鱼项目升级日志-20260519</title>
-      <link>http://localhost:5307/enderman2710.github.io/post/%E6%A0%A1%E9%B1%BC%E9%A1%B9%E7%9B%AE%E5%8D%87%E7%BA%A7%E6%97%A5%E5%BF%97-20260519/</link>
+      <link>https://enderdying2710.github.io/enderman2710.github.io/post/%E6%A0%A1%E9%B1%BC%E9%A1%B9%E7%9B%AE%E5%8D%87%E7%BA%A7%E6%97%A5%E5%BF%97-20260519/</link>
       <pubDate>Tue, 19 May 2026 00:00:00 &#43;0000</pubDate>
       <author>xxx@example.com (enderman2710)</author>
-      <guid>http://localhost:5307/enderman2710.github.io/post/%E6%A0%A1%E9%B1%BC%E9%A1%B9%E7%9B%AE%E5%8D%87%E7%BA%A7%E6%97%A5%E5%BF%97-20260519/</guid>
+      <guid>https://enderdying2710.github.io/enderman2710.github.io/post/%E6%A0%A1%E9%B1%BC%E9%A1%B9%E7%9B%AE%E5%8D%87%E7%BA%A7%E6%97%A5%E5%BF%97-20260519/</guid>
       <description>
         <![CDATA[<h1>校鱼项目升级日志-20260519</h1><p>作者：enderman2710（xxx@example.com）</p>
         
@@ -263,7 +275,7 @@ Hugo 博客标签与配置文件修改指南
 日期：2026-05-19<br>
 分支：<code>appmod/java-upgrade-20260519012250</code></p>
         
-        <hr><p>本文2026-05-19首发于<a href='http://localhost:5307/enderman2710.github.io/'>enderman2710</a>，最后修改于2026-05-19</p>]]>
+        <hr><p>本文2026-05-19首发于<a href='https://enderdying2710.github.io/enderman2710.github.io/'>enderman2710</a>，最后修改于2026-05-19</p>]]>
       </description>
       
         <category>项目</category>
@@ -274,10 +286,10 @@ Hugo 博客标签与配置文件修改指南
 
     <item>
       <title>我第一次写MaskDown</title>
-      <link>http://localhost:5307/enderman2710.github.io/post/%E6%88%91%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%86%99mask-down/</link>
+      <link>https://enderdying2710.github.io/enderman2710.github.io/post/%E6%88%91%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%86%99mask-down/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 &#43;0000</pubDate>
       <author>xxx@example.com (enderman2710)</author>
-      <guid>http://localhost:5307/enderman2710.github.io/post/%E6%88%91%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%86%99mask-down/</guid>
+      <guid>https://enderdying2710.github.io/enderman2710.github.io/post/%E6%88%91%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%86%99mask-down/</guid>
       <description>
         <![CDATA[<h1>我第一次写MaskDown</h1><p>作者：enderman2710（xxx@example.com）</p>
         
@@ -302,7 +314,7 @@ Hugo 博客标签与配置文件修改指南
 目录
 </h2><p>[TOC]</p>
         
-        <hr><p>本文2026-05-18首发于<a href='http://localhost:5307/enderman2710.github.io/'>enderman2710</a>，最后修改于2026-05-18</p>]]>
+        <hr><p>本文2026-05-18首发于<a href='https://enderdying2710.github.io/enderman2710.github.io/'>enderman2710</a>，最后修改于2026-05-18</p>]]>
       </description>
       
         <category>技术</category>
@@ -313,16 +325,16 @@ Hugo 博客标签与配置文件修改指南
 
     <item>
       <title>Hello World</title>
-      <link>http://localhost:5307/enderman2710.github.io/post/hello-world/</link>
+      <link>https://enderdying2710.github.io/enderman2710.github.io/post/hello-world/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 &#43;0800</pubDate>
       <author>xxx@example.com (enderman2710)</author>
-      <guid>http://localhost:5307/enderman2710.github.io/post/hello-world/</guid>
+      <guid>https://enderdying2710.github.io/enderman2710.github.io/post/hello-world/</guid>
       <description>
         <![CDATA[<h1>Hello World</h1><p>作者：enderman2710（xxx@example.com）</p>
         
           <p>欢迎来到我的博客！这是使用 Hugo + hugo-theme-reimu 主题搭建的第一篇文章。🎉</p>
         
-        <hr><p>本文2025-01-01首发于<a href='http://localhost:5307/enderman2710.github.io/'>enderman2710</a>，最后修改于2025-01-01</p>]]>
+        <hr><p>本文2025-01-01首发于<a href='https://enderdying2710.github.io/enderman2710.github.io/'>enderman2710</a>，最后修改于2025-01-01</p>]]>
       </description>
       
         <category>技术</category>
