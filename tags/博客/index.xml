@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>博客 on enderman2710</title>
-    <link>https://enderdying2710.github.io/enderman2710.github.io/tags/%E5%8D%9A%E5%AE%A2/</link>
+    <link>http://localhost:5307/enderman2710.github.io/tags/%E5%8D%9A%E5%AE%A2/</link>
     <description>Recent content from enderman2710</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
@@ -15,7 +15,7 @@
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0800</lastBuildDate>
     
     
-    <atom:link href="https://enderdying2710.github.io/enderman2710.github.io/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="http://localhost:5307/enderman2710.github.io/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     
@@ -23,16 +23,16 @@
 
     <item>
       <title>Hello World</title>
-      <link>https://enderdying2710.github.io/enderman2710.github.io/post/hello-world/</link>
+      <link>http://localhost:5307/enderman2710.github.io/post/hello-world/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 &#43;0800</pubDate>
       <author>xxx@example.com (enderman2710)</author>
-      <guid>https://enderdying2710.github.io/enderman2710.github.io/post/hello-world/</guid>
+      <guid>http://localhost:5307/enderman2710.github.io/post/hello-world/</guid>
       <description>
         <![CDATA[<h1>Hello World</h1><p>作者：enderman2710（xxx@example.com）</p>
         
           <p>欢迎来到我的博客！这是使用 Hugo + hugo-theme-reimu 主题搭建的第一篇文章。🎉</p>
         
-        <hr><p>本文2025-01-01首发于<a href='https://enderdying2710.github.io/enderman2710.github.io/'>enderman2710</a>，最后修改于2025-01-01</p>]]>
+        <hr><p>本文2025-01-01首发于<a href='http://localhost:5307/enderman2710.github.io/'>enderman2710</a>，最后修改于2025-01-01</p>]]>
       </description>
       
         <category>技术</category>

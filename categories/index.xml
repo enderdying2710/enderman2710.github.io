@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on enderman2710</title>
-    <link>https://enderdying2710.github.io/enderman2710.github.io/categories/</link>
+    <link>http://localhost:5307/enderman2710.github.io/categories/</link>
     <description>Recent content from enderman2710</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
@@ -15,7 +15,7 @@
     <lastBuildDate></lastBuildDate>
     
     
-    <atom:link href="https://enderdying2710.github.io/enderman2710.github.io/categories/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="http://localhost:5307/enderman2710.github.io/categories/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     

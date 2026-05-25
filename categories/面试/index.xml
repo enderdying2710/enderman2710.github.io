@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>面试 on enderman2710</title>
-    <link>https://enderdying2710.github.io/enderman2710.github.io/categories/%E9%9D%A2%E8%AF%95/</link>
+    <link>http://localhost:5307/enderman2710.github.io/categories/%E9%9D%A2%E8%AF%95/</link>
     <description>Recent content from enderman2710</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
@@ -15,7 +15,7 @@
     <lastBuildDate>Fri, 22 May 2026 00:00:00 +0000</lastBuildDate>
     
     
-    <atom:link href="https://enderdying2710.github.io/enderman2710.github.io/categories/%E9%9D%A2%E8%AF%95/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="http://localhost:5307/enderman2710.github.io/categories/%E9%9D%A2%E8%AF%95/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     
@@ -23,10 +23,10 @@
 
     <item>
       <title>我的传奇面试概率</title>
-      <link>https://enderdying2710.github.io/enderman2710.github.io/post/%E4%BC%A0%E5%A5%87%E9%9D%A2%E8%AF%95%E5%8F%AF%E8%83%BD%E6%80%A7/</link>
+      <link>http://localhost:5307/enderman2710.github.io/post/%E4%BC%A0%E5%A5%87%E9%9D%A2%E8%AF%95%E5%8F%AF%E8%83%BD%E6%80%A7/</link>
       <pubDate>Fri, 22 May 2026 00:00:00 &#43;0000</pubDate>
       <author>xxx@example.com (enderman2710)</author>
-      <guid>https://enderdying2710.github.io/enderman2710.github.io/post/%E4%BC%A0%E5%A5%87%E9%9D%A2%E8%AF%95%E5%8F%AF%E8%83%BD%E6%80%A7/</guid>
+      <guid>http://localhost:5307/enderman2710.github.io/post/%E4%BC%A0%E5%A5%87%E9%9D%A2%E8%AF%95%E5%8F%AF%E8%83%BD%E6%80%A7/</guid>
       <description>
         <![CDATA[<h1>我的传奇面试概率</h1><p>作者：enderman2710（xxx@example.com）</p>
         
@@ -85,7 +85,7 @@
 二、综合评估：你适合的方向
 </h2><p>根据你的技能体系、项目经验和学历背景，推荐优先级如下：</p>
         
-        <hr><p>本文2026-05-22首发于<a href='https://enderdying2710.github.io/enderman2710.github.io/'>enderman2710</a>，最后修改于2026-05-22</p>]]>
+        <hr><p>本文2026-05-22首发于<a href='http://localhost:5307/enderman2710.github.io/'>enderman2710</a>，最后修改于2026-05-22</p>]]>
       </description>
       
         <category>面试</category>
